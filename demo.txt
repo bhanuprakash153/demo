@@ -2,10 +2,16 @@ welcome to super market
 apples
 mangos
 banana
+pizza
+beans
 
 added
 pasta
 
 thank you
 
+
+done my changes
+
 final copy
+
